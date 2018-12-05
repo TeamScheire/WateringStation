@@ -4,6 +4,11 @@ Een simpel bewateringssysteem met een arduino, een servomotor en een vochtigheid
 
 ![opstelling](footage/setup.jpg)
 
+Een werkende versie en meer uitleg over een Arduino in dit filmpje:
+
+
+[![Wat is een arduino?](https://img.youtube.com/vi/Vyr8NSm7-Zw/0.jpg)](https://www.youtube.com/watch?v=Vyr8NSm7-Zw)
+
 ## Benodigdheden
 
 - Een arduino (eender welke arduino is goed)
